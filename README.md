@@ -43,10 +43,7 @@ The page does have a few drawbacks, such as;
 - Spellings & can not have spaces at the end, for example you user could not type "roundrock", "round rock ", or  "Round Rock", of typed this was user would return no data. Instead the user would need to use the correct spelling as "round rock" to pull up information for the city of round rock. 
 
 ### Recommendations:
-1. Add additional customizations such as;
-- clickable buttons
-- dropdown lists
-- auto filter
+1. Add additional customizations such as interactive buttons, dropdown lists & auto filters that users can quickly navigate to the sighting information they're looking for
 2. Add functionality to have the ability to pull content from a live source that's not limited to the US, enhance the user experiance by making the site Global
 3. Add an area that has the "Latest News" that will show articles with the most up-to-date information of reported UFO sightings 
 
