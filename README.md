@@ -13,3 +13,8 @@ Building a website showing UFO Sightings with JavaScript
 - HTML
 - Bootstrap
 - CSS
+
+## Overview
+We were tasked to create and display a table, organizing data stored in a JavaScript array. The website created through JavaScript will allow visitors to the site to filter by certain data points based on date, city, state, & shape. Information in the site uses information stored in CSS/HTML & Bootstrap, generating the aesthetics of the file:///Users/jbailey2705/Desktop/UT:Bootcamp/UFOs/index.html 
+
+
